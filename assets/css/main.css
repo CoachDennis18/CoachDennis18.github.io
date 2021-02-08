@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
   padding: 10px;
-  background: black;
+  background: #002792;
 }
 
 /* Header/Blog Title */
@@ -9,7 +9,7 @@ body {
   padding: 5px;
   text-align: center;
   background: white;
-  color: black;
+  color: #002792;
 }
 
 .header h1 {
@@ -34,7 +34,7 @@ body {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #002792;
   color: black;
 }
 
